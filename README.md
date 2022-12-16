@@ -2,9 +2,14 @@
 
 <div align="center">
  
+ <section>
+  <a href="https://github.com/antoniolpcan?tab=repositories">
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniolpcan&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniolpcan&hide=JavaScript,SCSS,CSS,Less&show_icons=true&langs_count=3&theme=gruvbox"/>
- 
+   
+   </section>
+  
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
