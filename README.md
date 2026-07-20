@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;
 
-Desenvolvedor Python focado em **Automações**, **APIs** e resolução de problemas (um extra 😅) 
+Desenvolvedor Python focado em **Automações**, **APIs** e resolução de problemas :)
 
 ---
 
@@ -12,6 +12,7 @@ Desenvolvedor Python focado em **Automações**, **APIs** e resolução de probl
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
