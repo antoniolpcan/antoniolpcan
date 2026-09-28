@@ -1,17 +1,17 @@
 # Prazer, eu sou o Antonio Candioto
 
-Desenvolvedor de Software Full-Stack com 5 anos de experiência, focado em **Python (FastAPI)**, **React** e construção de **APIs**, **Automações (RPAs)** e soluções escaláveis.
+Desenvolvedor de Software Full-Stack com 5 anos de experiência, focado em **Python (FastAPI)**, **C#**, **React** e construção de **APIs**, **Automações (RPAs)** e soluções escaláveis.
 
 ---
 
 ### Sobre mim
-- 🎓 Tecnólogo em Desenvolvimento de Software Multiplataforma (Fatec)
-- 🚀 Desenvolvedor Full-Stack focado em Python (FastAPI), React e APIs
-- 💡 Experiência no desenvolvimento de RPAs e arquitetura de processamento assíncrono de dados
+- Tecnólogo em Desenvolvimento de Software Multiplataforma (Fatec)
+- Desenvolvedor Full-Stack focado em Python (FastAPI), C#, React e RPAs
+- Experiência no desenvolvimento de RPAs e arquitetura de processamento assíncrono de dados e ETL
 
 ---
 
-### 💻 Stack & Tecnologias
+### Stack & Tecnologias
 
 **Linguagens, Frameworks & Banco de Dados**  
 
@@ -26,7 +26,7 @@ Desenvolvedor de Software Full-Stack com 5 anos de experiência, focado em **Pyt
 
 ---
 
-### 📫 Conecte-se comigo
+### Conecte-se comigo
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-antonio-candioto.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniolpcan/)
